@@ -8,7 +8,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Guilherme Custódio Nieto stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCustodioNieto\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Lucas Caribé Araújo stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCustodioNieto\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeCustodioNieto&theme=midnight-purple)](https://git.io/streak-stats)
 
@@ -23,13 +23,13 @@
 
 <h3 align="left">Activity:</h3>
 
-![GuilhermeCustodioNieto's Graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeCustodioNieto&custom_title=Guilherme's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Lucas Caribe Araujo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasCaribeAraujo&custom_title=Guilherme's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h1 align="center">Guilherme Custódio Nieto</h1>
-<h3 align="center">Back-End Developer</h3>
+<h1 align="center">Lucas Caribé Araújo</h1>
+<h3 align="center">Front-End Developer</h3>
 <p align="center">I'm a lover of technology and innovation in general 👨‍💻. I am currently taking a technical course in Systems Development at ETEC Cidade Tiradentes, SP - Brazil 📚. <br> I like to explore each IT area by studying each content in depth, as I believe that a focused study can help me achieve my goals 🔥.</p>
 <p align="center"> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
@@ -59,13 +59,13 @@
 
 <!-- 🔭 I’m currently working on **UA IT(JKH IT)** -->
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 
 - 👨‍💻 All of my projects are available at [Guilherme's workspace](https://github.com/GuilhermeCustodioNietoe)
 
 - 💬 Ask me about **Java, Python, and NodeJS**
 
-- 📫 How to reach me **guilhermecustodionieto@gmail.com**
+- 📫 How to reach me **lucascaribe01@gmail.com**
 
 - 🥇 1st place at ETEC Cidade Tiradentes in the Systems Development course.
 
