@@ -73,13 +73,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs" />
-  </a>
-</p>
-
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
@@ -87,17 +80,10 @@
   </a>
 </p>
 
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql, SQL Server" />
-  </a>
-</p>
-
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,powershell" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
   </a>
 </p>
 
